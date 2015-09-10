@@ -1,0 +1,67 @@
+#body {
+	background-color:#000000;
+}
+#header {
+    background-color:#101010;
+    padding:5px;
+}
+#trailerheader {
+	width:350px;
+    float:left;
+    padding-left:30px;
+    color:#FFFFFF;	
+	font-family: "Trebuchet MS", Arial, Helvedica, sans-serif;
+	font-size:40px;
+	text-decoration: underline;
+}
+#trailerclip {
+	padding-left:200px;
+}
+#trailernumber {
+	width:350px;
+    float:left;
+    padding-left:30px;
+    color:#FFFFFF;	
+	font-family: "Trebuchet MS", Arial, Helvedica, sans-serif;
+	font-size:20px;
+}
+#tableofcontents {
+    line-height:40px;
+    background-color:#202020;
+    width:collapse;
+	height:875px;
+    float:left;
+    padding:5px;
+    color:#FFFFFF;
+	font-family: "Trebuchet MS", Arial, Helvedica, sans-serif;
+}
+#poll {
+    background-color:#000000;
+    font-family: "Trebuchet MS", Arial, Helvedica, sans-serif;
+	font-size:15px;
+    color:#FFFFFF;
+    clear:both;
+    text-align:center;
+	padding:5px;	 	 
+}
+
+#links {color:#FFFFFF;}
+
+#seriesheader {
+	width:collapse;
+    float:left;
+    padding-left:30px;
+	padding-right: 30px;
+    color:#FFFFFF;	
+	font-family: "Trebuchet MS", Arial, Helvedica, sans-serif;
+	font-size:40px;
+}
+
+#seriesinfo {
+    color:#FFFFFF;
+	font-family: "Trebuchet MS", Arial, Helvedica, sans-serif;
+}
+
+#seriespic {
+	padding-left:100px;
+}
