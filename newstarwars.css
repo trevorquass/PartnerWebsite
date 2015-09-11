@@ -6,21 +6,18 @@
     padding:5px;
 }
 #trailerheader {
-	width:350px;
-    float:left;
-    padding-left:30px;
     color:#FFFFFF;	
 	font-family: "Trebuchet MS", Arial, Helvedica, sans-serif;
 	font-size:40px;
 	text-decoration: underline;
+	text-indent:20px;
 }
 #trailerclip {
-	padding-left:200px;
+	text-align:center;
 }
 #trailernumber {
-	width:350px;
-    float:left;
-    padding-left:30px;
+	text-align:left;
+	text-indent:70px;
     color:#FFFFFF;	
 	font-family: "Trebuchet MS", Arial, Helvedica, sans-serif;
 	font-size:20px;
@@ -29,7 +26,7 @@
     line-height:40px;
     background-color:#202020;
     width:collapse;
-	height:875px;
+	height:1000px;
     float:left;
     padding:5px;
     color:#FFFFFF;
@@ -48,20 +45,18 @@
 #links {color:#FFFFFF;}
 
 #seriesheader {
-	width:collapse;
-    float:left;
-    padding-left:30px;
-	padding-right: 30px;
     color:#FFFFFF;	
 	font-family: "Trebuchet MS", Arial, Helvedica, sans-serif;
 	font-size:40px;
+	text-indent:20px;
 }
 
 #seriesinfo {
     color:#FFFFFF;
 	font-family: "Trebuchet MS", Arial, Helvedica, sans-serif;
+	text-indent: 50px;
 }
 
 #seriespic {
-	padding-left:100px;
+	text-align: center;
 }
